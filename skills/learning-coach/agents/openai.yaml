@@ -1,0 +1,6 @@
+interface:
+  display_name: "Learning Coach"
+  short_description: "Personalized study plans and review"
+  default_prompt: "Use $learning-coach to help me learn a topic with a personalized plan and gentle review."
+policy:
+  allow_implicit_invocation: true
